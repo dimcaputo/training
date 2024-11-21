@@ -13,7 +13,7 @@ commit
 Checkpoint des fichiers, les enregistre dans le repository
 
 status
-Vérifie les fichiers stagé et non stagé, ce qui est pret a être commit ou non
+Vérifie les fichiers stagé et non stagé, ce qui est pret a être commit ou non, ce qui est suivi ou non
 
 init
 Initie un repository
