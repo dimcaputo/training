@@ -1,0 +1,43 @@
+Mémo Git
+
+-- version
+Permet de verifier la version installée
+
+log 
+Affiche l'historique des commit
+
+add
+Stage un fichier pour qu'il soit tracké par git
+
+commit
+Checkpoint des fichiers, les enregistre dans le repository
+
+status
+Vérifie les fichiers stagé et non stagé, ce qui est pret a être commit ou non
+
+init
+Initie un repository
+
+config
+Change les parametres de git
+
+branch
+Montre les branches disponibles
+
+branch <name>
+Crée une nouvelle branche dans le repository pour pouvoir travailler sans impacté la branche principale
+
+checkout <name>
+Permet de passe d'une branche à l'autre
+
+checkout -b <name>
+Crée une nouvelle branche et se déplace dans cette branche 
+
+merge <name>
+Fusionne la branche master avec celle nommée (fusionne le dernier commit de chaque branche)
+
+branch -d <name>
+Supprime une branche
+
+
+
