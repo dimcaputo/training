@@ -1,0 +1,22 @@
+Mémo Git
+
+-- version
+Permet de verifier la version installée
+
+log 
+Affiche l'historique des commit
+
+add
+Stage un fichier pour qu'il soit tracké par git
+
+commit
+Checkpoint des fichiers
+
+status
+Vérifie les fichiers stagé et non stagé, ce qui est pret a être commit ou non
+
+init
+Initie un repository
+
+
+
