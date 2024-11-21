@@ -39,7 +39,17 @@ Fusionne la branche master avec celle nommée (fusionne le dernier commit de cha
 branch -d <name>
 Supprime une branche
 
-Salut essai
+diff
+montre la difference entre deux versions
 
-Je change encore pour utiliser pull
+fetch
+recupere la nouvelle version qui a été commité
+
+pull
+fetch et merge les branches
+
+push
+envoie la nouvelle version sur github et merge
+
+
 
